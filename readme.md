@@ -38,6 +38,7 @@ Priserna ser ut som följer
 * Från och med 18 till och med 64 år: 20 kr
 * Från och med 65 år: 15kr.
 
+Ditt program ska ta ålder som inparameter och returnera pris i SEK som svar.
 
 ## Genomförande ##
 
